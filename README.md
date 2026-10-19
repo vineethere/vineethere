@@ -65,7 +65,7 @@ flowchart LR
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Testing &amp; Delivery**
 
@@ -99,8 +99,8 @@ flowchart LR
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vineethere&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" height="160" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethere&layout=compact&hide_border=true&langs_count=6&theme=default" height="160" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethere&layout=compact&hide_border=true&langs_count=6&hide=java,cmake,c%2B%2B,scss,makefile,batchfile&theme=default" height="150" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=vineethere&hide_border=true&theme=default" height="150" alt="Streak"/>
 </p>
 
 <p align="center"><i>Top 100 India &mdash; Snapchat AR Hackathon &nbsp;&middot;&nbsp; Top Performer &mdash; Coding Ninjas DSA (96%+)</i></p>
